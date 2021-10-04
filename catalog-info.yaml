@@ -9,6 +9,7 @@ metadata:
       url: http://shopware.com
   annotations:
     github.com/project-slug: intheweb/backstage-sw6
+    backstage.io/techdocs-ref: value
 spec:
   type: library
   owner: Sition
