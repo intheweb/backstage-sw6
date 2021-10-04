@@ -2,11 +2,11 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: shopware64
-  title: Test Action template
-  description: scaffolder v1beta2 template demo
+  name: shopware-64
+  title: Shopware 6 Template
+  description: Shopware 6.4 demo
 spec:
-  owner: backstage/techdocs-core
+  owner: sition/devops
   type: service
 
   # these are the steps which are rendered in the frontend with the form input
