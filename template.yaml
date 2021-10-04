@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: react-ssr-template
+  name: shopware-64
   title: Shopware 6
   description: Create a fresh webshop with Shopware 6
   tags:
