@@ -1,13 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: petstore
+  name: shopware64
   # This is an extra long description
-  description: The Petstore is an example API used to show features of the OpenAPI spec.
-  links:
-    - url: https://github.com/swagger-api/swagger-petstore
-      title: GitHub Repo
-      icon: github
+  description: Example SW64
 spec:
   type: service
   lifecycle: experimental
