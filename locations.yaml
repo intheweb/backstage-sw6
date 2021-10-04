@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: Shopware Components
+  description: A collection of all the Shopware components
+spec:
+  targets:
+    - ./components/shopware64-component.yaml
