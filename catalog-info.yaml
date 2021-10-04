@@ -15,3 +15,5 @@ spec:
   type: library
   owner: CNCF
   lifecycle: experimental
+  targets:
+    - ./components/shopware64-component.yaml
